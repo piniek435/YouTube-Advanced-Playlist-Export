@@ -1,0 +1,29 @@
+body {
+  width: 300px;
+  background-color: #1e293b;
+}
+h3,
+p,
+a,
+span {
+  color: #f8fafc;
+}
+.btn {
+  background-color: #991b1b;
+  color: #f8fafc;
+  font-size: 12px;
+  font-weight: 400;
+  font-style: normal;
+  border: none;
+  text-decoration: none;
+  padding: 10px 10px;
+  border-radius: 5px;
+  display: inline-block;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: #923434;
+}
+.btn:active {
+  transform: scale(0.95);
+}
